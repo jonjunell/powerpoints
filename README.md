@@ -34,3 +34,7 @@ We're migrating a number of our Tomcat and single-service web apps to an Azure S
 ### A Conversation about Responsibilities
 
 At Educause I attended a panel about M & A in Higher Ed and how building demographic challenges are going to impact our industry _significantly_.  This presentation was about guiding the audience through a discussion about how Western should address future challenges.
+
+### EIS Updates
+
+All about Cool Crab.  Creating engaging content for large meetings has always been a source of enjoyment.  Here's my latest PPT providing updates on current projects and offering guidance on changes in LDAP attributes.
